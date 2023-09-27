@@ -1,4 +1,4 @@
 
 ## Output of the project
 
-[! Screen Recorder]("Screenrec/rec.mp4")
+[! Screen Recorder]("Screenrec/rec.gif")
